@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App1_3</string>
+    <string name="ressources_name">J\'ai compris le système de ressources</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="btnReset">RESET</string>
+</resources>
