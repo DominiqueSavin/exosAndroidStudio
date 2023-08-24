@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorX">#7AB439</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">App1_3</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="btnReset">RESET</string>
+    <string name="password">password</string>
+    <string name="ressources_name">J\'ai compris le système de ressources</string>
+    <string name="username">Username</string>
+    <style name="Base.Theme.App1_3" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.App1_3" parent="Base.Theme.App1_3"/>
+</resources>

@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorX
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable peach
+id btnLogin
+id btnReset
+id passwordField
+id usernameField
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btnLogin
+string btnReset
+string password
+string ressources_name
+string username
+style Base.Theme.App1_3
+style Theme.App1_3
+xml backup_rules
+xml data_extraction_rules
